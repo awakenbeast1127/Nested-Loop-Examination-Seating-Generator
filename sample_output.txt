@@ -1,0 +1,8 @@
+EXAMINATION SEATING PLAN
+RES = Reserved | -- = Unavailable
+       C1     C2     C3     C4     C5
+Row 1:  A101     --   A102     --   A103
+Row 2:    --   A104    RES   A105     --
+Row 3:  A106     --   A107     --   A108
+Row 4:    --   A109     --   A110     --
+Unallocated students: None
